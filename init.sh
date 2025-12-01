@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 file=db.sqlite3
 if [ -e "$file" ]; then
